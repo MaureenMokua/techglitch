@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef8c59e8-0181-46c9-bef9-4a60942d3292" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fxNimAEKLrAqEHUaEoOTIq6MIF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef8c59e8-0181-46c9-bef9-4a60942d3292" name="Default Changelist" comment="" />
+      <created>1597155913589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597155913589</updated>
+      <workItem from="1597155914638" duration="5786000" />
+      <workItem from="1597162661551" duration="5151000" />
+      <workItem from="1597211186199" duration="13000" />
+    </task>
+    <task id="LOCAL-00001" summary="Hello">
+      <created>1597162739496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597162739496</updated>
+    </task>
+    <task id="LOCAL-00002" summary="vcs">
+      <created>1597162754068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597162754068</updated>
+    </task>
+    <task id="LOCAL-00003" summary="delete sass files">
+      <created>1597165570082</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597165570082</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add contact">
+      <created>1597165814190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597165814190</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Hello" />
+    <MESSAGE value="vcs" />
+    <MESSAGE value="delete sass files" />
+    <MESSAGE value="add contact" />
+    <option name="LAST_COMMIT_MESSAGE" value="add contact" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597156743338">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="416" y="146" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1366.741@0.27.1366.741" timestamp="1597156743338" />
+    <state x="248" y="27" width="860" height="741" key="CommitChangelistDialog2" timestamp="1597165814099">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="248" y="27" width="860" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1597165814099" />
+    <state x="317" y="58" width="722" height="710" key="EditFileWatcherDialog" timestamp="1597164145257">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="317" y="58" width="722" height="710" key="EditFileWatcherDialog/0.27.1366.741@0.27.1366.741" timestamp="1597164145257" />
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1597162652049">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1597162652049" />
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1597164146382">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" width="1022" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1597164146382" />
+    <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1597165551159">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="129" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1597165551159" />
+    <state x="375" y="91" width="616" height="612" key="find.popup" timestamp="1597168042936">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="375" y="91" width="616" height="612" key="find.popup/0.27.1366.741@0.27.1366.741" timestamp="1597168042936" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1597164125127">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1597164125127" />
+  </component>
+</project>
